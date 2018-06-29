@@ -1,1 +1,3 @@
+
+SQLRunner.execute_create_hp_column
 ALTER TABLE pokemon ADD hp INTEGER NOT NULL DEFAULT(60);
