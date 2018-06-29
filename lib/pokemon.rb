@@ -1,5 +1,5 @@
 class Pokemon
-  attr_accessor :id, :name, :type, :db
+a ttr_accessor :id, :name, :type, :db
 
 
 def initialize(id:, name:, type:, hp: nil, db:)
